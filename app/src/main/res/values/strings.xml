@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Schrittzaehler</string>
+    <string name="schritte">000</string>
+    <string name="button">Zurücksetzen</string>
+</resources>
